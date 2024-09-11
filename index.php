@@ -2,7 +2,7 @@
 <html>
 <head><title>Temperature Conversion</title></head>
 <body>
-
+<!--This essentially both  
 <?php if ($_SERVER['REQUEST_METHOD'] == 'GET') { ?>
   <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST">
     Fahrenheit temperature:
